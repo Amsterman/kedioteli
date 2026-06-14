@@ -1,4 +1,4 @@
-const BUSINESS_WHATSAPP_NUMBER = "905000000000";
+const BUSINESS_WHATSAPP_NUMBER = "905354315062";
 
 const form = document.querySelector("#bookingForm");
 const statusEl = document.querySelector("#formStatus");
