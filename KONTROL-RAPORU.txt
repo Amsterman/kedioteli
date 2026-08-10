@@ -1,6 +1,7 @@
-V4 İletişim güncellemesi
-Telefon: +90 535 431 50 62
-HTML sayısı: 24
-Kontrol sorunu: 0
+V5 iletişim düzenlemesi
+• Yeni sabit Ara/WhatsApp butonları kaldırıldı.
+• Yeni sayfa içi CTA'lar kaldırıldı.
+• Ana sayfadaki mevcut Hizmeti İncele butonunun yanına yalnızca Ara eklendi.
+• Mevcut üst menü WhatsApp butonu korunuyor.
 
-Tüm HTML sayfalarında Ara + WhatsApp bağlantıları mevcut.
+Kontrol temiz.
