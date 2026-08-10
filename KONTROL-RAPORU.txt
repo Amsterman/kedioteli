@@ -1,0 +1,6 @@
+KediOteli.net final kök dizin sürümü
+
+HTML dosyası: 24
+Bulunan bozuk yerel link: 0
+
+Yerel HTML linklerinde bozuk hedef bulunmadı.
