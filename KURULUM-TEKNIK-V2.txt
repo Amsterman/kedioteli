@@ -1,0 +1,6 @@
+KediOteli.net Teknik SEO V2
+
+Bu paket mevcut root yapısına göre hazırlanmıştır.
+GitHub'da assets/ klasörünü ve CNAME dosyasını değiştirmeyin.
+Paket içindeki HTML, CSS, robots.txt ve sitemap.xml dosyalarını root'a yükleyip mevcutların üzerine yazın.
+Canonical/sitemap www.kedioteli.net olarak standartlaştırılmıştır.
