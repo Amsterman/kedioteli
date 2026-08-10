@@ -1,8 +1,6 @@
-Teknik SEO final düzeltmesi tamamlandı.
-Canonical/OG/Schema URL'leri www standardına çekildi.
-Sitemap/robots www standardına çekildi.
-Ana sayfa H1: İstanbul'da Evde Kedi Bakımı.
-Ana sayfa Organization + WebSite + Service schema ile düzenlendi.
-Eski /blog/ ve /bolgeler/ iç linkleri temizlendi.
+SEO/GEO içerik V3
+HTML sayısı: 24
+Sitemap URL sayısı: 23
+Kontrol sorunu: 0
 
-Kontrol temiz: sorun bulunmadı.
+Tüm yerel HTML linkleri mevcut. Eski /blog/ ve /bolgeler/ yolları bulunamadı. Non-www URL bulunamadı.

@@ -14,3 +14,17 @@
 @media(max-width:800px){
   .hero > .wrap > img{aspect-ratio:2 / 1;height:auto;object-fit:contain;}
 }
+
+/* SEO content V3 */
+.compact-hero{padding:72px 0 48px}
+.compact-hero .eyebrow,.article-content .eyebrow{font-weight:700;letter-spacing:.04em;text-transform:uppercase;opacity:.72}
+.content-section,.article-content{padding:52px 0}
+.content-section h2,.article-content h2{margin-top:32px}
+.content-section ul,.content-section ol,.article-content ul{padding-left:1.25rem}
+.content-section li,.article-content li{margin:.55rem 0}
+.faq-section{background:#f7f8f6}
+.faq-section details{padding:16px 0;border-bottom:1px solid rgba(0,0,0,.1)}
+.faq-section summary{cursor:pointer;font-weight:700}
+.faq-section details p{margin:.75rem 0 0}
+.related-links{margin:28px auto;max-width:1100px;padding:0 20px}
+.article-content .lead{font-size:1.12rem;line-height:1.7}
