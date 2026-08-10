@@ -1,14 +1,18 @@
-# KediOteli.net SEO sürümü
+# KediOteli.net - GitHub Pages SEO sürümü (düz kök yapı)
 
-Bu paket GitHub Pages için hazırlanmıştır.
+GitHub'a yüklerken klasörleri oluşturmak zorunda kalmamak için bu sürümde bütün HTML sayfaları repository köküne alınmıştır.
 
-## Yükleme
-1. Repository'deki eski dosyaların yedeğini alın.
-2. Bu paketteki dosyaları repository köküne yükleyin.
-3. `assets/` klasöründeki mevcut görselleri koruyun. Özellikle `cat-home-care-hero-1200.webp` yoksa mevcut hero görselinizle değiştirin.
-4. GitHub Pages ayarlarında custom domain `kedioteli.net` olarak kalmalı.
-5. Search Console'da sitemap olarak `https://kedioteli.net/sitemap.xml` gönderin.
-6. URL Denetimi ile ana sayfa ve yeni önemli sayfaları tek tek kontrol edin.
+## Mevcut `assets/` klasörünü SİLME.
+## `CNAME` dosyasını SİLME.
 
-## Önemli
-Telefon, e-posta, hizmet kapsamı, fiyat ve gerçek hayatta sunulmayan özellikler yayına alınmadan önce kontrol edilmelidir.
+Diğer aynı isimli dosyaları bu pakettekilerle değiştir.
+
+Önemli URL örnekleri:
+- https://kedioteli.net/
+- https://kedioteli.net/evde-kedi-bakimi.html
+- https://kedioteli.net/kedi-bakicisi.html
+- https://kedioteli.net/kadikoy-kedi-bakimi.html
+- https://kedioteli.net/kedi-rehberi.html
+- https://kedioteli.net/kedi-evde-yalniz-kac-gun-kalabilir.html
+
+Yükleme sonrası Search Console'da https://kedioteli.net/sitemap.xml gönder.
