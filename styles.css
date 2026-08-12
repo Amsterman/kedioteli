@@ -40,3 +40,137 @@
 .checklist-card{background:#f7faf8}.check-list{list-style:none;padding:0;margin:0}.check-list li{position:relative;padding:10px 0 10px 31px;border-bottom:1px solid var(--line)}.check-list li:last-child{border-bottom:0}.check-list li:before{content:"✓";position:absolute;left:0;top:10px;color:var(--brand);font-weight:900}.faq-section-home{background:#f7f8f6}.faq-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:25px}.faq-grid details{background:#fff;border:1px solid var(--line);padding:18px 20px;border-radius:14px}.faq-grid summary{font-weight:750;cursor:pointer}.faq-grid p{color:var(--muted);margin-bottom:0}.guide-section{background:#fff}.guide-inner{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center}.guide-links{display:flex;flex-direction:column;gap:10px}.guide-links a{background:#f0f5f1;border:1px solid var(--line);padding:15px 17px;border-radius:14px;text-decoration:none;font-weight:700;color:var(--brand)}.cta-call{background:transparent!important;color:#fff!important;border-color:rgba(255,255,255,.7)!important}
 @media(max-width:800px){.navlinks{display:flex}.navlinks a:not(.btn){display:none}.navlinks .btn{padding:10px 14px}.trust-grid,.steps-grid,.feature-grid,.area-cards,.faq-grid,.guide-inner{grid-template-columns:1fr}.trust-grid>div{border-right:0;border-bottom:1px solid var(--line)}.trust-grid>div:last-child{border-bottom:0}.area-cards{gap:10px}.hero-note{margin-bottom:4px}}
 @media(min-width:801px) and (max-width:1050px){.feature-grid{grid-template-columns:repeat(2,1fr)}.area-cards{grid-template-columns:repeat(3,1fr)}}
+
+/* V7 - Hızlı bakım talep formu */
+.quick-contact-section{
+  padding:72px 0;
+  background:#f7f5ef;
+}
+.quick-contact-grid{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(360px,520px);
+  gap:56px;
+  align-items:center;
+}
+.quick-contact-copy h2{
+  max-width:600px;
+  margin:8px 0 18px;
+}
+.quick-contact-copy>p{
+  max-width:600px;
+  line-height:1.7;
+}
+.quick-contact-benefits{
+  list-style:none;
+  padding:0;
+  margin:28px 0 0;
+  display:grid;
+  gap:13px;
+}
+.quick-contact-benefits li{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  font-weight:650;
+}
+.quick-contact-benefits li span{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:25px;
+  height:25px;
+  border-radius:50%;
+  background:#e4eee8;
+  font-weight:800;
+}
+.quick-contact-card{
+  background:#fff;
+  border-radius:24px;
+  padding:28px;
+  box-shadow:0 16px 45px rgba(35,67,55,.10);
+}
+.quick-contact-card h3{
+  margin:0 0 6px;
+}
+.form-note{
+  margin:0 0 20px;
+  font-size:.94rem;
+  opacity:.72;
+}
+#quick-care-form{
+  display:grid;
+  gap:15px;
+}
+#quick-care-form label{
+  display:grid;
+  gap:7px;
+  font-weight:650;
+  font-size:.91rem;
+}
+.form-row{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:13px;
+}
+#quick-care-form input,
+#quick-care-form select,
+#quick-care-form textarea{
+  width:100%;
+  box-sizing:border-box;
+  border:1px solid #d9dfda;
+  border-radius:12px;
+  padding:12px 13px;
+  background:#fff;
+  color:inherit;
+  font:inherit;
+  outline:none;
+}
+#quick-care-form input:focus,
+#quick-care-form select:focus,
+#quick-care-form textarea:focus{
+  border-color:#628a76;
+  box-shadow:0 0 0 3px rgba(98,138,118,.12);
+}
+.optional{
+  font-weight:400;
+  opacity:.6;
+}
+.quick-form-submit{
+  border:0;
+  border-radius:13px;
+  padding:14px 18px;
+  background:#1f8f55;
+  color:#fff;
+  font:inherit;
+  font-weight:800;
+  cursor:pointer;
+  transition:transform .15s ease,filter .15s ease;
+}
+.quick-form-submit:hover{
+  filter:brightness(.96);
+  transform:translateY(-1px);
+}
+.form-privacy{
+  margin:0;
+  font-size:.78rem;
+  opacity:.58;
+  text-align:center;
+}
+.quick-form-error{
+  margin:0;
+  padding:10px 12px;
+  border-radius:10px;
+  background:#fff0f0;
+  font-size:.88rem;
+}
+@media(max-width:800px){
+  .quick-contact-section{padding:52px 0;}
+  .quick-contact-grid{
+    grid-template-columns:1fr;
+    gap:28px;
+  }
+}
+@media(max-width:520px){
+  .quick-contact-card{padding:20px;border-radius:19px;}
+  .form-row{grid-template-columns:1fr;}
+}

@@ -1,3 +1,7 @@
-V6 tasarım güncellemesi
-Sorun sayısı: 0
-Kontrol temiz.
+V7 Hızlı Bakım Talep Formu
+form: OK
+whatsapp: OK
+district: OK
+dates: OK
+css: OK
+Form bilgileri sunucuya kaydedilmez; WhatsApp mesajı olarak hazırlanır.
