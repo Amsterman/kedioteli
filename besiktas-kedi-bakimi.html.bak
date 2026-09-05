@@ -50,27 +50,6 @@
   ]
 }
 </script>
-
-  <!-- Otomatik Eklenen GEO Meta & Schema -->
-  <meta name="geo.region" content="TR-34" />
-  <meta name="geo.placename" content="Beşiktaş, İstanbul" />
-  <meta name="geo.position" content="41.0422;29.0067" />
-  <meta name="ICBM" content="41.0422, 29.0067" />
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "PetService",
-    "name": "Kedi Bakımı ve Oteli - Beşiktaş",
-    "serviceType": "Kedi Bakımı, Kedi Oteli ve Pansiyonu",
-    "areaServed": "Beşiktaş, İstanbul",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Beşiktaş",
-      "addressRegion": "İstanbul",
-      "addressCountry": "TR"
-    }
-  }
-  </script>
 </head>
 <body>
 <header class="site-header"><div class="wrap nav">

@@ -58,42 +58,6 @@
   ]
 }
 </script>
-
-  <!-- Otomatik Eklenen SEO / GEO Şeması -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "PetService",
-    "name": "KediOteli.net - Kedi Oteli ve Evde Bakım Hizmeti",
-    "url": "https://www.kedioteli.net/kedi-oteli.html",
-    "serviceType": ["Kedi Oteli", "Evde Kedi Bakımı", "Kedi Pansiyonu"],
-    "areaServed": [{"@type": "City", "name": "İstanbul"}]
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Kedi oteli mi yoksa evde kedi bakımı mı tercih edilmeli?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Ortam değişikliğinden stres yaşayan kediler için kendi evlerinde kalıp günlük profesyonel ziyaretlerle bakılmaları çok daha konforludur."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Evde kedi bakımı hizmeti nasıl planlanır?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Tarih ve hizmet bölgesi paylaşıldıktan sonra kedinizin mama, kum, oyun ve varsa ilaç rutini netleştirilir; planlanan saatlerde periyodik ziyaretler gerçekleştirilir."
-        }
-      }
-    ]
-  }
-  </script>
 </head>
 <body>
 <header class="site-header"><div class="wrap nav">

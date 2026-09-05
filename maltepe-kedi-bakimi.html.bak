@@ -50,27 +50,6 @@
   ]
 }
 </script>
-
-  <!-- Otomatik Eklenen GEO Meta & Schema -->
-  <meta name="geo.region" content="TR-34" />
-  <meta name="geo.placename" content="Maltepe, İstanbul" />
-  <meta name="geo.position" content="40.9247;29.1307" />
-  <meta name="ICBM" content="40.9247, 29.1307" />
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "PetService",
-    "name": "Kedi Bakımı ve Oteli - Maltepe",
-    "serviceType": "Kedi Bakımı, Kedi Oteli ve Pansiyonu",
-    "areaServed": "Maltepe, İstanbul",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Maltepe",
-      "addressRegion": "İstanbul",
-      "addressCountry": "TR"
-    }
-  }
-  </script>
 </head>
 <body>
 <header class="site-header"><div class="wrap nav">

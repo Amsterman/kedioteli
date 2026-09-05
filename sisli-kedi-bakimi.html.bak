@@ -50,27 +50,6 @@
   ]
 }
 </script>
-
-  <!-- Otomatik Eklenen GEO Meta & Schema -->
-  <meta name="geo.region" content="TR-34" />
-  <meta name="geo.placename" content="Şişli, İstanbul" />
-  <meta name="geo.position" content="41.0602;28.9877" />
-  <meta name="ICBM" content="41.0602, 28.9877" />
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "PetService",
-    "name": "Kedi Bakımı ve Oteli - Şişli",
-    "serviceType": "Kedi Bakımı, Kedi Oteli ve Pansiyonu",
-    "areaServed": "Şişli, İstanbul",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Şişli",
-      "addressRegion": "İstanbul",
-      "addressCountry": "TR"
-    }
-  }
-  </script>
 </head>
 <body>
 <header class="site-header"><div class="wrap nav">
